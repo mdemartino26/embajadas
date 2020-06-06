@@ -59,7 +59,7 @@ const addMarker = (map, marker) => {
         
         const markerItem = new google.maps.Marker(
             {
-                position:{ lat:lat, lng:lng}, 
+                position:{ lat:parseFloat(lat), lng:parseFloat(lng)}, 
                 icon:icons[type],
                 map: map,
                 customInfo: type
