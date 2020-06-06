@@ -1,0 +1,506 @@
+[
+  {
+    "lat": -34.5674628,
+    "lng": -58.440027,
+    "name": "Alemania - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5707084,
+    "lng": -58.4647094,
+    "name": "Angola - Buenos Aires",
+    "type": "africa"
+  },
+  {
+    "lat": -34.5793692,
+    "lng": -58.4024221,
+    "name": "Arabia Saudita - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.802574,
+    "lng": -58.3943312,
+    "name": "Argelia - Buenos Aires",
+    "type": "africa"
+  },
+  {
+    "lat": 34.5916919,
+    "lng": -58.3850293,
+    "name": "Armenia - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.5646654,
+    "lng": -58.4437871,
+    "name": "Australia - Buenos Aires",
+    "type": "oceania"
+  },
+  {
+    "lat": -34.5829012,
+    "lng": -58.4115808,
+    "name": "Austria - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5695124,
+    "lng": -58.4394406,
+    "name": "Azerbaiyán - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.5534955,
+    "lng": -58.443882,
+    "name": "Belarús - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.580612,
+    "lng": -58.4027192,
+    "name": "Bélgica - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.6032284,
+    "lng": -58.374452,
+    "name": "Bolivia - Buenos Aires",
+    "type": "america"
+  },
+  {
+    "lat": -34.5916977,
+    "lng": -58.3835434,
+    "name": "Brasil - Buenos Aires",
+    "type": "america"
+  },
+  {
+    "lat": -34.559116,
+    "lng": -58.4465967,
+    "name": "Bulgaria - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5798128,
+    "lng": -58.3976407,
+    "name": "Canadá - Buenos Aires",
+    "type": "america"
+  },
+  {
+    "lat": -34.5814277,
+    "lng": -58.3989295,
+    "name": "Chile - Buenos Aires",
+    "type": "america"
+  },
+  {
+    "lat": -34.5628603,
+    "lng": -58.4960651,
+    "name": "China - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.5920879,
+    "lng": -58.381408,
+    "name": "Colombia - Buenos Aires",
+    "type": "america"
+  },
+  {
+    "lat": -34.5750918,
+    "lng": -58.4637508,
+    "name": "Congo (República Democrática) - Buenos Aires",
+    "type": "africa"
+  },
+  {
+    "lat": -34.5796088,
+    "lng": -58.4056381,
+    "name": "Corea (República) - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.5923115,
+    "lng": -58.393312,
+    "name": "Costa Rica - Buenos Aires",
+    "type": "america"
+  },
+  {
+    "lat": -34.5686991,
+    "lng": -58.4402902,
+    "name": "Croacia - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5631676,
+    "lng": -58.4463745,
+    "name": "Cuba - Buenos Aires",
+    "type": "america"
+  },
+  {
+    "lat": -34.5954339,
+    "lng": -58.3727337,
+    "name": "Dinamarca - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5876682,
+    "lng": -58.3904273,
+    "name": "Ecuador - Buenos Aires",
+    "type": "america"
+  },
+  {
+    "lat": -34.57044,
+    "lng": -58.4601999,
+    "name": "Egipto - Buenos Aires",
+    "type": "africa"
+  },
+  {
+    "lat": -34.5921313,
+    "lng": -58.3906073,
+    "name": "El Salvador - Buenos Aires",
+    "type": "america"
+  },
+  {
+    "lat": -34.5672864,
+    "lng": -58.4409484,
+    "name": "Emiratos Árabes Unidos - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.578712,
+    "lng": -58.4020023,
+    "name": "Eslovaquia - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5915368,
+    "lng": -58.3796431,
+    "name": "Eslovenia - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5795832,
+    "lng": -58.400685,
+    "name": "España - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5766261,
+    "lng": -58.4187611,
+    "name": "Estados Unidos - Buenos Aires",
+    "type": "america"
+  },
+  {
+    "lat": -34.5699942,
+    "lng": -58.459936,
+    "name": "Filipinas - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.595504,
+    "lng": -58.3791466,
+    "name": "Finlandia - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5917852,
+    "lng": -58.3826391,
+    "name": "Francia - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5738956,
+    "lng": -58.4659372,
+    "name": "Georgia - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.5796039,
+    "lng": -58.4030152,
+    "name": "Grecia - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5929604,
+    "lng": -58.3787067,
+    "name": "Guatemala - Buenos Aires",
+    "type": "america"
+  },
+  {
+    "lat": -34.5781922,
+    "lng": -58.4021817,
+    "name": "Haití - Buenos Aires",
+    "type": "america"
+  },
+  {
+    "lat": -34.5953218,
+    "lng": -58.3805862,
+    "name": "Honduras - Buenos Aires",
+    "type": "america"
+  },
+  {
+    "lat": -34.5756514,
+    "lng": -58.4703373,
+    "name": "Hungría - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5964777,
+    "lng": -58.3706953,
+    "name": "India - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.5794184,
+    "lng": -58.4000058,
+    "name": "Indonesia - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.5786604,
+    "lng": -58.4016929,
+    "name": "Irán - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.5863822,
+    "lng": -58.3867842,
+    "name": "Irlanda - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.6085497,
+    "lng": -58.3766484,
+    "name": "Israel - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.5822489,
+    "lng": -58.4024449,
+    "name": "Italia - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.6014691,
+    "lng": -58.3688321,
+    "name": "Japón - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.619239,
+    "lng": -58.3612267,
+    "name": "Kuwait - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.5803161,
+    "lng": -58.4051456,
+    "name": "Líbano - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.5723662,
+    "lng": -58.4627691,
+    "name": "Libia - Buenos Aires",
+    "type": "africa"
+  },
+  {
+    "lat": -34.5677897,
+    "lng": -58.4402091,
+    "name": "Malasia - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.5774009,
+    "lng": -58.4064926,
+    "name": "Marruecos - Buenos Aires",
+    "type": "africa"
+  },
+  {
+    "lat": -34.5647251,
+    "lng": -58.4503589,
+    "name": "México - Buenos Aires",
+    "type": "america"
+  },
+  {
+    "lat": -34.5947237,
+    "lng": 58.3843812,
+    "name": "Montenegro - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5956801,
+    "lng": -58.3939309,
+    "name": "Nicaragua - Buenos Aires",
+    "type": "america"
+  },
+  {
+    "lat": -34.57978,
+    "lng": -58.3983871,
+    "name": "Nigeria - Buenos Aires",
+    "type": "africa"
+  },
+  {
+    "lat": -34.5911785,
+    "lng": -58.3814429,
+    "name": "Noruega - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5912826,
+    "lng": -58.3815012,
+    "name": "Nueva Zelanda - Buenos Aires",
+    "type": "oceania"
+  },
+  {
+    "lat": -34.6070024,
+    "lng": -58.3640967,
+    "name": "Países Bajos - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5681972,
+    "lng": -58.4415867,
+    "name": "Pakistán - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.5976746,
+    "lng": -58.3945133,
+    "name": "Palestina - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.5956124,
+    "lng": -58.387957,
+    "name": "Panamá - Buenos Aires",
+    "type": "america"
+  },
+  {
+    "lat": -34.5853002,
+    "lng": -58.3992916,
+    "name": "Paraguay - Buenos Aires",
+    "type": "america"
+  },
+  {
+    "lat": -34.5830745,
+    "lng": -58.3980954,
+    "name": "Perú - Buenos Aires",
+    "type": "america"
+  },
+  {
+    "lat": -34.5797714,
+    "lng": -58.4022779,
+    "name": "Polonia - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5970145,
+    "lng": -58.377147,
+    "name": "Portugal - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5932814,
+    "lng": -58.3813735,
+    "name": "Qatar - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.585725,
+    "lng": -58.3954678,
+    "name": "Reino Unido - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5914901,
+    "lng": -58.3955362,
+    "name": "República Checa - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5950582,
+    "lng": -58.3802248,
+    "name": "República Dominicana - Buenos Aires",
+    "type": "america"
+  },
+  {
+    "lat": -34.591677,
+    "lng": -58.3809141,
+    "name": "Rumania - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5907623,
+    "lng": -58.3885155,
+    "name": "Rusia - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.597002,
+    "lng": -58.391927,
+    "name": "Serbia - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5979238,
+    "lng": -58.3932875,
+    "name": "Siria - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.596375,
+    "lng": -58.3751323,
+    "name": "Sudáfrica - Buenos Aires",
+    "type": "africa"
+  },
+  {
+    "lat": -34.6058787,
+    "lng": -58.364203,
+    "name": "Suecia - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5953988,
+    "lng": -58.3791965,
+    "name": "Suiza - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5627816,
+    "lng": -58.4542826,
+    "name": "Tailandia - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.5542833,
+    "lng": -58.4655348,
+    "name": "Túnez - Buenos Aires",
+    "type": "africa"
+  },
+  {
+    "lat": -34.5657022,
+    "lng": -58.4453079,
+    "name": "Turquía - Buenos Aires",
+    "type": "asia"
+  },
+  {
+    "lat": -34.5683336,
+    "lng": -58.4420031,
+    "name": "Ucrania - Buenos Aires",
+    "type": "europa"
+  },
+  {
+    "lat": -34.5947061,
+    "lng": -58.3871278,
+    "name": "Uruguay - Buenos Aires",
+    "type": "america"
+  },
+  {
+    "lat": -34.5750686,
+    "lng": -58.4313672,
+    "name": "Venezuela - Buenos Aires",
+    "type": "america"
+  },
+  {
+    "lat": -34.5652764,
+    "lng": -58.44624,
+    "name": "Vietnam - Buenos Aires",
+    "type": "asia"
+  }
+]
