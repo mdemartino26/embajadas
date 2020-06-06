@@ -44,6 +44,7 @@ const addMarker = (map, marker) => {
         const contentString = 
         `<div>
         <h2>${name}</h2>
+        <h3>${description}</h3>
         <h3>${type}</h3>
         </div>`;
         const infowindow = new google.maps.InfoWindow({
