@@ -1,0 +1,15 @@
+{
+  "name": "tp-demartino",
+  "version": "1.0.0",
+  "description": "frontend",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marian",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/plugin-transform-runtime": "^7.10.1",
+    "@babel/preset-env": "^7.10.2"
+  }
+}
