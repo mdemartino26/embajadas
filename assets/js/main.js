@@ -105,16 +105,25 @@ handleFilterAsia.addEventListener('click', (e) => {
     addMarkerFiltered('asia')
     })
 
-
-const addMarkerFiltered = (markerType) => {
-    
-    markersAll.forEach((marker)=>{
-        marker.setMap(null); //quita todos los markers del mapa
+handleFilterEarth.addEventListener('click', (e) => {
+    e.preventDefault();
+    showAllMarkers()
     })
-
-    const markerFiltered = markersAll.filter( (markerItem)=>markerItem.customInfo === markerType)
+    
+const addMarkerFiltered = (markerType) => {
+    markersAll.forEach((marker)=>{
+    marker.setMap(null); //quita todos los markers del mapa
+})
+    
+const markerFiltered = markersAll.filter( (markerItem)=>markerItem.customInfo === markerType)
     console.log(markerFiltered)
     markerFiltered.forEach ((marker) => {
         marker.setMap(map);
+        })
+    }
+    
+const showAllMarkers = ( ) => {
+    markersAll.forEach((marker)=>{
+    marker.setMap(map); //pone todos los markers del mapa
     })
 }
