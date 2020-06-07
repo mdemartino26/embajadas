@@ -44,7 +44,7 @@ const api = {
     },
     //DELETE
     deleteEmbajadas: async id => {
-        const dataResponse = await fetch(baseUrl + 'marker/' + id, fetchParams('DELETE'));
+        const dataResponse = await fetch(baseUrl + 'markers/' + id, fetchParams('DELETE'));
         const dataInfo = await dataResponse.json();
         return dataInfo;
     },
