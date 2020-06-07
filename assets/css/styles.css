@@ -15,9 +15,10 @@ body
     {
         position: absolute;
         top: 0;
-        left:0;
-        padding:2%;
+        left: 0;
+        padding: 1%;
         background: rgba(76, 175, 80, 0.75);
+        border-radius: 0px 0px 15px 0px;
     }
 
 h1 
