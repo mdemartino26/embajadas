@@ -38,7 +38,7 @@ const api = {
     },
     //UPDATE
     updateEmbajadas: async (formData,id) => {
-        const dataResponse = await fetch(baseUrl + 'marker/' + id, fetchParams('PUT', formData));
+        const dataResponse = await fetch(baseUrl + 'markers/' + id, fetchParams('PUT', formData));
         const dataInfo = await dataResponse.json();
         return dataInfo;
     },
