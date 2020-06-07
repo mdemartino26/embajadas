@@ -64,7 +64,7 @@ const handleClickDelete = async () => {
 }
 
 //UPDATE
-const updateEbmajada = async (data, id) => {
+const updateEmbajada = async (data, id) => {
     const result = await api.updateEmbjadas(data, id);
     console.log('Updated', result)
     getEmbajadas();
