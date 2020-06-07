@@ -2,6 +2,7 @@ body
     {
         padding:0;
         margin:0;
+        font-family: 'Nunito', sans-serif;
     }
 
 #map  
@@ -16,10 +17,7 @@ body
         top: 0;
         left:0;
         padding:2%;
-        background: rgba(76, 175, 80, 0.6);
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
+        background: rgba(76, 175, 80, 0.75);
     }
 
 h1 
@@ -28,8 +26,27 @@ h1
         font-size: 1em;
     }
 
+h2 
+    {
+        font-weight: bold;
+    }
+
+h3  
+    {
+        font-weight: lighter;
+    }
+
 
 /* Estilos del dashboard de admin */
+
+header h1
+    {
+        padding: 2%;
+        background-color: black;
+        margin: 0;
+        text-align: center;
+        font-size: 2em;
+    }
 
 .btn{padding: 10px 20px; border-radius: 90px; color:#fff;text-decoration: none;}
 .verde{background-color:green;}
