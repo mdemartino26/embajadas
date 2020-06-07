@@ -28,7 +28,7 @@ window.initMap = () => {
 
 const fetchMarkers = async (map) => {
     try {
-        const response = await fetch('https://embajadas-api-rest.now.sh//markers');
+        const response = await fetch('https://embajadas-api-rest.now.sh/markers');
         const json = await response.json();
         json.forEach(marker => {
             addMarker(map, marker);
